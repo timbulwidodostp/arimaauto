@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p arimaauto Find the best ARIMA model with the help of a Stata-adjusted Hyndman-Khandakar (2008) algorithm Use arimaauto With STATA 19

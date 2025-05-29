@@ -1,0 +1,10 @@
+D 'arimaauto': Find the best ARIMA model with the help of a Stata-adjusted Hyndman-Khandakar (2008) algorithm Use arimaauto With STATA 19
+D
+F arimaauto.ado
+F arimaauto.sthlp
+F hegy.ado
+F hegy.hlp
+F kpss.ado
+F kpss.hlp
+F larimaauto.mlib
+F mata_arimaauto.mata
