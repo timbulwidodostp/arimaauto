@@ -3,6 +3,8 @@ Find the best ARIMA model with the help of a Stata-adjusted Hyndman-Khandakar (2
 
 Finds the best [TS] arima model with the help of a Stata-adjusted Hyndman-Khandakar (2008) algorithm through stepwise traversing of the model space or a bulk estimation Use arimaauto With STATA 19
 
+https://www.youtube.com/watch?v=5cSV5rcT4D8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
